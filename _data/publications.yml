@@ -6,7 +6,7 @@ main:
     conference_short: Review
     conference: RSC Chemical Biology, 5 (5), 401-417, 2024
     pdf: https://pubs.rsc.org/en/content/articlepdf/2024/cb/d3cb00208j
-    # image: https://songyingit.github.io/img/RSCchembio_review.gif
+    image: https://songyingit.github.io/img/RSCchembio_review.gif
     notes: Invited Review
 
   - title: "Imparting selective fluorophilic interactions in redox copolymers for the electrochemically mediated capture of short-chain perfluoroalkyl substances"
