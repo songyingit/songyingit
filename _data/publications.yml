@@ -22,7 +22,7 @@ main:
     conference_short: DFT
     conference: Physical Chemistry Chemical Physics 22 (30), 17106-17116, 2020
     pdf: https://pubs.rsc.org/en/content/articlepdf/2020/cp/d0cp02285c
-    image: ./assets/img/PCCP_TOC.jpeg
+    image: ./assets/img/PCCP_TOC.jpg
     notes: 2020 PCCP HOT Article
 
   - title: "In-situ ion-activated carbon nanospheres with tunable ultramicroporosity for superior CO<sub>2</sub> capture"
